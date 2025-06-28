@@ -1,3 +1,0 @@
-# obsidian-sync
-
-123
